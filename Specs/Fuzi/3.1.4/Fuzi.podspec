@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/cezheng/Fuzi"
   s.social_media_url   = "https://twitter.com/AdamoCheng"
   s.author             = { "Ce Zheng" => "cezheng.cs@gmail.com" }
-  s.source       = { :git => "https://github.com/cezheng/Fuzi.git", :tag => "3.13" }
+  s.source       = { :git => "https://github.com/cezheng/Fuzi.git", :tag => "3.1.3" }
 
   # cocoadocs.org might not be working
   # s.documentation_url = "http://cezheng.github.io/Fuzi"
