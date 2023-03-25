@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.platform      = :ios
   s.ios.deployment_target = "10.0"
   s.xcconfig      = { 'HEADER_SEARCH_PATHS' => '$(SDKROOT)/usr/include/libxml2' }
+  s.swift_version = '5.0'
 
   s.dependency 'R2Shared'
   s.dependency 'Fuzi', '~> 3.1.4'
